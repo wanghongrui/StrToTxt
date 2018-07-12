@@ -1,0 +1,16 @@
+{
+  "name": "strtotxt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.5.2",
+    "koa-cors": "^0.0.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
